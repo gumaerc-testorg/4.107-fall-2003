@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-107-march-portfolio-seminar-fall-2003/d67c04f59b6066046f8905e5344785b9_carl_solander.pdf
+file: /media/courses/4-107-march-portfolio-seminar-fall-2003/d67c04f59b6066046f8905e5344785b9_carl_solander.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Portfolios
+parent_type: CourseSection
 resourcetype: Document
 title: carl_solander.pdf
 uid: d67c04f5-9b60-6604-6f89-05e5344785b9

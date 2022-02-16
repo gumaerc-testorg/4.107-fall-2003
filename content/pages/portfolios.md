@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Portfolios
 uid: a65b1372-9e66-5ae6-9f08-e3e75912a2e2
 ---

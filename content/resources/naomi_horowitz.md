@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-107-march-portfolio-seminar-fall-2003/5daf3df56edd86d0ef4822f404cfbca1_naomi_horowitz.pdf
+file: /media/courses/4-107-march-portfolio-seminar-fall-2003/5daf3df56edd86d0ef4822f404cfbca1_naomi_horowitz.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Portfolios
+parent_type: CourseSection
 resourcetype: Document
 title: naomi_horowitz.pdf
 uid: 5daf3df5-6edd-86d0-ef48-22f404cfbca1

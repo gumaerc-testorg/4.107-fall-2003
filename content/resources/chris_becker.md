@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-107-march-portfolio-seminar-fall-2003/c0c1150753c93e31d1ea7119b1534b01_chris_becker.pdf
+file: /media/courses/4-107-march-portfolio-seminar-fall-2003/c0c1150753c93e31d1ea7119b1534b01_chris_becker.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Portfolios
+parent_type: CourseSection
 resourcetype: Document
 title: chris_becker.pdf
 uid: c0c11507-53c9-3e31-d1ea-7119b1534b01

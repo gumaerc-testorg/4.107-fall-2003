@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-107-march-portfolio-seminar-fall-2003/a1c984c30c7812d9f399e7fc73ce4573_jane_wu.pdf
+file: /media/courses/4-107-march-portfolio-seminar-fall-2003/a1c984c30c7812d9f399e7fc73ce4573_jane_wu.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Portfolios
+parent_type: CourseSection
 resourcetype: Document
 title: jane_wu.pdf
 uid: a1c984c3-0c78-12d9-f399-e7fc73ce4573
