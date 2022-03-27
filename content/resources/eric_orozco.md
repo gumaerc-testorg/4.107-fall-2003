@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Portfolios
 parent_type: CourseSection
+parent_uid: a65b1372-9e66-5ae6-9f08-e3e75912a2e2
 resourcetype: Document
 title: eric_orozco.pdf
 uid: 442787fc-3cf3-f246-407f-bf37b0e78b56

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Portfolios
 parent_type: CourseSection
+parent_uid: a65b1372-9e66-5ae6-9f08-e3e75912a2e2
 resourcetype: Document
 title: jane_wu.pdf
 uid: a1c984c3-0c78-12d9-f399-e7fc73ce4573

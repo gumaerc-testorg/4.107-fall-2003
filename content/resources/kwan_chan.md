@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Portfolios
 parent_type: CourseSection
+parent_uid: a65b1372-9e66-5ae6-9f08-e3e75912a2e2
 resourcetype: Document
 title: kwan_chan.pdf
 uid: a18ca716-5fd1-0c3a-631f-3ed02c648620

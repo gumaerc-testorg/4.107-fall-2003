@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Portfolios
 parent_type: CourseSection
+parent_uid: a65b1372-9e66-5ae6-9f08-e3e75912a2e2
 resourcetype: Document
 title: renata_filipovic.pdf
 uid: f26c5d8d-c2af-2bd6-c7b9-61199530a2e4

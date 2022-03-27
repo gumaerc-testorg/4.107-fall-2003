@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Portfolios
 parent_type: CourseSection
+parent_uid: a65b1372-9e66-5ae6-9f08-e3e75912a2e2
 resourcetype: Document
 title: aaron_wittkamper.pdf
 uid: 51476788-56bb-3b81-aa5a-c6be36d77e27
