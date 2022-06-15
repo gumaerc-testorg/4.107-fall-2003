@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-107-march-portfolio-seminar-fall-2003/cad6c12b0bdbc3813f3f060c051f82ff_jeremy_gates.pdf
+file: /courses/4-107-march-portfolio-seminar-fall-2003/cad6c12b0bdbc3813f3f060c051f82ff_jeremy_gates.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

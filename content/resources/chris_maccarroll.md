@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-107-march-portfolio-seminar-fall-2003/8cf187dfa9464a530fc8678af3528efd_chris_maccarroll.pdf
+file: /courses/4-107-march-portfolio-seminar-fall-2003/8cf187dfa9464a530fc8678af3528efd_chris_maccarroll.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

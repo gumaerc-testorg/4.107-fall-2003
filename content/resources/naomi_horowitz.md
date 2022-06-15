@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-107-march-portfolio-seminar-fall-2003/5daf3df56edd86d0ef4822f404cfbca1_naomi_horowitz.pdf
+file: /courses/4-107-march-portfolio-seminar-fall-2003/5daf3df56edd86d0ef4822f404cfbca1_naomi_horowitz.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

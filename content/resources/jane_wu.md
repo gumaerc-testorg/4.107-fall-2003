@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-107-march-portfolio-seminar-fall-2003/a1c984c30c7812d9f399e7fc73ce4573_jane_wu.pdf
+file: /courses/4-107-march-portfolio-seminar-fall-2003/a1c984c30c7812d9f399e7fc73ce4573_jane_wu.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

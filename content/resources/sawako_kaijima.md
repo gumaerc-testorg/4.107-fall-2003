@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-107-march-portfolio-seminar-fall-2003/0ad25a32840e39a77f7ca8debab5048e_sawako_kaijima.pdf
+file: /courses/4-107-march-portfolio-seminar-fall-2003/0ad25a32840e39a77f7ca8debab5048e_sawako_kaijima.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

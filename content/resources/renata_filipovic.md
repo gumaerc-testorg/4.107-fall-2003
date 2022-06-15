@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-107-march-portfolio-seminar-fall-2003/f26c5d8dc2af2bd6c7b961199530a2e4_renata_filipovic.pdf
+file: /courses/4-107-march-portfolio-seminar-fall-2003/f26c5d8dc2af2bd6c7b961199530a2e4_renata_filipovic.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

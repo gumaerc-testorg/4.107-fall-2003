@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-107-march-portfolio-seminar-fall-2003/d67c04f59b6066046f8905e5344785b9_carl_solander.pdf
+file: /courses/4-107-march-portfolio-seminar-fall-2003/d67c04f59b6066046f8905e5344785b9_carl_solander.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
