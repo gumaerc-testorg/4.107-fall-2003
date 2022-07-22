@@ -4,6 +4,7 @@ description: ''
 file: /courses/4-107-march-portfolio-seminar-fall-2003/a18ca7165fd10c3a631f3ed02c648620_kwan_chan.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Portfolios
 parent_type: CourseSection

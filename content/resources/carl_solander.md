@@ -4,6 +4,7 @@ description: ''
 file: /courses/4-107-march-portfolio-seminar-fall-2003/d67c04f59b6066046f8905e5344785b9_carl_solander.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Portfolios
 parent_type: CourseSection
