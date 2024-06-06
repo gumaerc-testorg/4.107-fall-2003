@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-107-march-portfolio-seminar-fall-2003/8cf187dfa9464a530fc8678af3528efd_chris_maccarroll.pdf
+file_size: 40845
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

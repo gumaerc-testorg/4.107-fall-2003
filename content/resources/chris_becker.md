@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-107-march-portfolio-seminar-fall-2003/c0c1150753c93e31d1ea7119b1534b01_chris_becker.pdf
+file_size: 59622
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
