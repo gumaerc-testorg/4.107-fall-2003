@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-107-march-portfolio-seminar-fall-2003/5147678856bb3b81aa5ac6be36d77e27_aaron_wittkamper.pdf
+file_size: 104119
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
