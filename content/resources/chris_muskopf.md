@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-107-march-portfolio-seminar-fall-2003/42430719b939dc01141c22d7a7494213_chris_muskopf.pdf
+file_size: 41395
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
