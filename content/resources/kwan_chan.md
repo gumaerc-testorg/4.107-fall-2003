@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-107-march-portfolio-seminar-fall-2003/a18ca7165fd10c3a631f3ed02c648620_kwan_chan.pdf
+file: /courses/4-107-march-portfolio-seminar-fall-2003/a18ca7165fd10c3a631f3ed02c648620_kwan_chan.pdf
 file_size: 42740
 file_type: application/pdf
 learning_resource_types: []
